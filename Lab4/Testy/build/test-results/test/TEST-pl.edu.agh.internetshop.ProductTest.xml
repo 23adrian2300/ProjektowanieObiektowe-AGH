@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pl.edu.agh.internetshop.ProductTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-05-15T15:42:54" hostname="LAPTOP-LQ0MESR8" time="0.006">
+  <properties/>
+  <testcase name="getProductPriceWithDiscount()" classname="pl.edu.agh.internetshop.ProductTest" time="0.002"/>
+  <testcase name="getProductDiscount()" classname="pl.edu.agh.internetshop.ProductTest" time="0.0"/>
+  <testcase name="testProductPrice()" classname="pl.edu.agh.internetshop.ProductTest" time="0.001"/>
+  <testcase name="testProductName()" classname="pl.edu.agh.internetshop.ProductTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

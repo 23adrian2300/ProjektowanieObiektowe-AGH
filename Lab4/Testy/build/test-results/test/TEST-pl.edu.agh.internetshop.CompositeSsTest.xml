@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pl.edu.agh.internetshop.CompositeSsTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-05-15T15:42:54" hostname="LAPTOP-LQ0MESR8" time="0.01">
+  <properties/>
+  <testcase name="sameAllParametersNotProduct()" classname="pl.edu.agh.internetshop.CompositeSsTest" time="0.004"/>
+  <testcase name="sameAllParametersNotBuyers()" classname="pl.edu.agh.internetshop.CompositeSsTest" time="0.001"/>
+  <testcase name="sameAllParametersNotTotalPrice()" classname="pl.edu.agh.internetshop.CompositeSsTest" time="0.002"/>
+  <testcase name="sameAllParameters()" classname="pl.edu.agh.internetshop.CompositeSsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

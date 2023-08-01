@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pl.edu.agh.internetshop.OrderTest" tests="27" skipped="0" failures="0" errors="0" timestamp="2023-05-15T15:42:54" hostname="LAPTOP-LQ0MESR8" time="0.082">
+  <properties/>
+  <testcase name="setDiscount()" classname="pl.edu.agh.internetshop.OrderTest" time="0.003"/>
+  <testcase name="getPaymentMethodWithoutSetting()" classname="pl.edu.agh.internetshop.OrderTest" time="0.002"/>
+  <testcase name="getPriceWithTaxesWithRoundUp()" classname="pl.edu.agh.internetshop.OrderTest" time="0.002"/>
+  <testcase name="setPaymentMethod()" classname="pl.edu.agh.internetshop.OrderTest" time="0.006"/>
+  <testcase name="getDiscountWithoutSetting()" classname="pl.edu.agh.internetshop.OrderTest" time="0.001"/>
+  <testcase name="listProductIsNull()" classname="pl.edu.agh.internetshop.OrderTest" time="0.001"/>
+  <testcase name="isPaidWithoutPaying()" classname="pl.edu.agh.internetshop.OrderTest" time="0.0"/>
+  <testcase name="setOrdersBuyers()" classname="pl.edu.agh.internetshop.OrderTest" time="0.001"/>
+  <testcase name="getOrdersBuyersWithoutSetting()" classname="pl.edu.agh.internetshop.OrderTest" time="0.001"/>
+  <testcase name="getPriceWithTaxes()" classname="pl.edu.agh.internetshop.OrderTest" time="0.001"/>
+  <testcase name="isSentWithoutSending()" classname="pl.edu.agh.internetshop.OrderTest" time="0.003"/>
+  <testcase name="paying()" classname="pl.edu.agh.internetshop.OrderTest" time="0.017"/>
+  <testcase name="whetherIdExists()" classname="pl.edu.agh.internetshop.OrderTest" time="0.002"/>
+  <testcase name="getPriceWithTaxesWithoutRoundUp()" classname="pl.edu.agh.internetshop.OrderTest" time="0.001"/>
+  <testcase name="getPriceWithTaxesWithRoundDown()" classname="pl.edu.agh.internetshop.OrderTest" time="0.002"/>
+  <testcase name="getProductThroughOrder()" classname="pl.edu.agh.internetshop.OrderTest" time="0.0"/>
+  <testcase name="setShipmentMethod()" classname="pl.edu.agh.internetshop.OrderTest" time="0.006"/>
+  <testcase name="getPriceWithDiscount()" classname="pl.edu.agh.internetshop.OrderTest" time="0.003"/>
+  <testcase name="productsListIsNull()" classname="pl.edu.agh.internetshop.OrderTest" time="0.002"/>
+  <testcase name="getShipmentMethodWithoutSetting()" classname="pl.edu.agh.internetshop.OrderTest" time="0.001"/>
+  <testcase name="getShipmentWithoutSetting()" classname="pl.edu.agh.internetshop.OrderTest" time="0.001"/>
+  <testcase name="setShipment()" classname="pl.edu.agh.internetshop.OrderTest" time="0.001"/>
+  <testcase name="getPriceMultiplyProducts()" classname="pl.edu.agh.internetshop.OrderTest" time="0.003"/>
+  <testcase name="getPrice()" classname="pl.edu.agh.internetshop.OrderTest" time="0.002"/>
+  <testcase name="sending()" classname="pl.edu.agh.internetshop.OrderTest" time="0.002"/>
+  <testcase name="getMultipleProductFromOrder()" classname="pl.edu.agh.internetshop.OrderTest" time="0.002"/>
+  <testcase name="getPriceWithProductDiscount()" classname="pl.edu.agh.internetshop.OrderTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

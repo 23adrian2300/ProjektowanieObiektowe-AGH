@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pl.edu.agh.internetshop.ShipmentTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-05-15T15:42:54" hostname="LAPTOP-LQ0MESR8" time="0.017">
+  <properties/>
+  <testcase name="testGetSenderAddressThroughShipment()" classname="pl.edu.agh.internetshop.ShipmentTest" time="0.009"/>
+  <testcase name="testSetShipped()" classname="pl.edu.agh.internetshop.ShipmentTest" time="0.001"/>
+  <testcase name="testGetRecipientAddressThroughShipment()" classname="pl.edu.agh.internetshop.ShipmentTest" time="0.001"/>
+  <testcase name="testSetShippedWithoutSetting()" classname="pl.edu.agh.internetshop.ShipmentTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

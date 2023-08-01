@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pl.edu.agh.internetshop.HistoryTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-05-15T15:42:54" hostname="LAPTOP-LQ0MESR8" time="0.022">
+  <properties/>
+  <testcase name="getFilteredOrdersWithBuyers()" classname="pl.edu.agh.internetshop.HistoryTest" time="0.003"/>
+  <testcase name="getFilteredOrdersTotalPrice()" classname="pl.edu.agh.internetshop.HistoryTest" time="0.001"/>
+  <testcase name="getCompositeOrders()" classname="pl.edu.agh.internetshop.HistoryTest" time="0.007"/>
+  <testcase name="getMultipleOrdersFromOrdersHistory()" classname="pl.edu.agh.internetshop.HistoryTest" time="0.001"/>
+  <testcase name="listOldOrdersIsNull()" classname="pl.edu.agh.internetshop.HistoryTest" time="0.002"/>
+  <testcase name="getFilteredOrdersWithProductName()" classname="pl.edu.agh.internetshop.HistoryTest" time="0.002"/>
+  <testcase name="getOldOrdersAddingOrders()" classname="pl.edu.agh.internetshop.HistoryTest" time="0.0"/>
+  <testcase name="searchStrategyNull()" classname="pl.edu.agh.internetshop.HistoryTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

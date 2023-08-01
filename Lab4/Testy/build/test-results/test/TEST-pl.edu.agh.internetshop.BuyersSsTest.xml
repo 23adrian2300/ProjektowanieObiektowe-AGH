@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pl.edu.agh.internetshop.BuyersSsTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-05-15T15:42:54" hostname="LAPTOP-LQ0MESR8" time="0.157">
+  <properties/>
+  <testcase name="BuyerIsNull()" classname="pl.edu.agh.internetshop.BuyersSsTest" time="0.153"/>
+  <testcase name="notSameBuyers()" classname="pl.edu.agh.internetshop.BuyersSsTest" time="0.001"/>
+  <testcase name="sameBuyers()" classname="pl.edu.agh.internetshop.BuyersSsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
